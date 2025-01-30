@@ -180,7 +180,6 @@ The Transport Layer ensures reliable or fast communication between devices.
 #### Additional Example:
 - **TCP** ensures reliability in web browsing and email transmission.
 
--
 
 ### 3. **Internet Layer (OSI Layer 3)**
 
@@ -221,7 +220,7 @@ The Network Access Layer ensures proper hardware communication and data transmis
 #### Additional Example:
 - **Wi-Fi networks** use SSID and encryption methods (WPA2, WPA3) for secure communication.
 
--
+--
 
 ## Why Understanding These Models Matters
 
