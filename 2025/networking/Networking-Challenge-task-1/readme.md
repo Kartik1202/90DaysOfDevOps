@@ -180,7 +180,7 @@ The Transport Layer ensures reliable or fast communication between devices.
 #### Additional Example:
 - **TCP** ensures reliability in web browsing and email transmission.
 
----
+-
 
 ### 3. **Internet Layer (OSI Layer 3)**
 
@@ -201,7 +201,6 @@ The Internet Layer is responsible for logical addressing and routing.
 #### Additional Example:
 - Routers manage IP address assignments and network traffic.
 
----
 
 ### 4. **Network Access Layer (OSI Layers 1, 2) - In-Depth Explanation**
 
@@ -222,7 +221,7 @@ The Network Access Layer ensures proper hardware communication and data transmis
 #### Additional Example:
 - **Wi-Fi networks** use SSID and encryption methods (WPA2, WPA3) for secure communication.
 
----
+-
 
 ## Why Understanding These Models Matters
 
