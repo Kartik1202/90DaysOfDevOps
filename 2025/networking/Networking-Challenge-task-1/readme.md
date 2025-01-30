@@ -160,7 +160,6 @@ The Application Layer in the TCP/IP model combines the functionalities of the OS
 #### Additional Example:
 - **DNS (Domain Name System)** resolves website names to IP addresses.
 
----
 
 ### 2. **Transport Layer (OSI Layer 4)**
 
